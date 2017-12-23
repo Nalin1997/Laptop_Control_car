@@ -16,5 +16,5 @@ After downloading Processing from above link open Console.pde, and upload Arduni
 
 You can control servo and enjoy a hand on your car
 
-Enjoy your computer control card
+Enjoy your computer control car.
 
